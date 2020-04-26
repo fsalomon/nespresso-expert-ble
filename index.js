@@ -49,7 +49,7 @@ var app = {
         } else if (volume == "lungo") {
             command += "02";
         } else if (volume == "hotwater") {
-            command += "05";
+            command += "04";
         } else if (volume == "americano") {
             command += "05";
         } else if (volume == "recipe") {
